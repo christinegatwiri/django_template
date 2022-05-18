@@ -5,7 +5,7 @@
 3. Start project using this template, ensuring to replace `ian_test_proj` with the appropriate project name on the command below:
 
     ```bash
-    django-admin startproject --template https://github.com/Impact-Africa-Network/ian-django-template/archive/main.zip ian_test_proj .
+    django-admin startproject --template https://github.com/Impact-Africa-Network/django_template/archive/main.zip ian_test_proj .
     ```
 4. Rename all the `.template` files by removing the `.template` extensions
 
