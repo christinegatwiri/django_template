@@ -1,6 +1,10 @@
 # Set up
 
-1. Create a new project using djangoadmin 
+1. Create a new project using djangoadmin :
+
+    ```bash
+    django-admin startproject test_proj
+    ```
 2. Create and activate virtual environment
 3. Install django
 4. Start project using this template, ensuring to replace `test_proj` with the appropriate project name on the command below:
